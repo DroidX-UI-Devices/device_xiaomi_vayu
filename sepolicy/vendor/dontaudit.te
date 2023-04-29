@@ -30,7 +30,6 @@ dontaudit {
   vendor_sensors_qti
 
 
-dontaudit {
   rild
   vendor_hal_gnss_qti
 } vendor_pd_locater_dbg_prop:file rw_file_perms;
