@@ -29,7 +29,6 @@ dontaudit {
   vendor_qti
   vendor_sensors_qti
 
-dontaudit kernel self:qipcrtr_socket create;
 
 dontaudit {
   rild
